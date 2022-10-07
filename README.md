@@ -1,7 +1,1 @@
-# Awesome Project Build with TypeORM
-
-Steps to run this project:
-
-1. Run `npm i` command
-2. Setup database settings inside `data-source.ts` file
-3. Run `npm start` command
+[{"id":1,"Nome":"Teclado RedDragon Kumara","Quantidade":20,"Preço":180,"Marca":"RedDragon"},{"id":2,"Nome":"Mouse Razer Viper Mini","Quantidade":30,"Preço":150,"Marca":"Razer"},{"id":3,"Nome":"HeadSet HyperX Cloud 2","Quantidade":30,"Preço":380,"Marca":"HyperX"},{"id":4,"Nome":"Mouse Gamer Wireless G502 Lightspeed","Quantidade":23,"Preço":600,"Marca":"Logitech"},{"id":5,"Nome":"Teclado RedDragon Kumara","Quantidade":20,"Preço":180,"Marca":"RedDragon"},{"id":6,"Nome":"Mouse Razer Viper Mini","Quantidade":30,"Preço":150,"Marca":"Razer"},{"id":7,"Nome":"HeadSet HyperX Cloud 2","Quantidade":30,"Preço":380,"Marca":"HyperX"},{"id":8,"Nome":"Mouse Gamer Wireless G502 Lightspeed","Quantidade":23,"Preço":600,"Marca":"Logitech"}]
